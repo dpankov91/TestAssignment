@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestingAssigment1.Core\TestingAssigment1.Core.csproj" />
+    <ProjectReference Include="..\TestingAssignment1.Core.Entity\TestingAssignment1.Core.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

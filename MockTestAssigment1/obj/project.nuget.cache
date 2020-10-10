@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yon8dYvKvhx/6qBcKrhiQku77NymYrLdijWxmgalMmw7tr3k2LqjIdHibCHEfrwjixpVqA2uNLL0C26A/6onOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dpank\\Documents\\GitHub\\MockTestAssignment\\MockTestAssignment1\\MockTestAssigment1\\MockTestAssigment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dpank\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dpank\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

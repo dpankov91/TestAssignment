@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YRdtyLh2WdJIgrgPKZXzKmW3KXdkXuUwhb6ilK+IsS6meTK1Dv8LcZ8lfwI2QLj0R4f+THVH6bnHnvdziMedTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kulsoom-Abbas\\source\\repos\\MockTestAssignment1\\MockTestAssignment1\\TestingAssigment1.Core\\TestingAssigment1.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
